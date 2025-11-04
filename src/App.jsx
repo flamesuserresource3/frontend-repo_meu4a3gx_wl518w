@@ -43,7 +43,7 @@ function App() {
                 <Github size={18} /> GitHub
               </a>
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/ajipamungkas999"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center gap-2 rounded-lg border border-slate-800 bg-slate-900/60 px-4 py-2 hover:border-slate-700 hover:bg-slate-900"
@@ -53,7 +53,7 @@ function App() {
             </div>
           </div>
           <div className="mt-10 flex items-center justify-between border-t border-slate-900 pt-6 text-sm text-slate-400">
-            <p>© {new Date().getFullYear()} Your Name. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} Aji Pamungkas. All rights reserved.</p>
             <nav className="flex gap-5">
               <a href="#home" className="hover:text-slate-200">Home</a>
               <a href="#skills" className="hover:text-slate-200">Skills</a>
